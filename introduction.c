@@ -18,12 +18,12 @@ int main() {
 	printf("%d %c %d %.1f %.2f %d\n",a1,b1,b2,c1,d1);
 	
 	// Calculating bytes of variables with printf
-	printf("%d byte\n"sizeof(char));
-	printf("%d byte\n"sizeof(int));
-	printf("%d byte\n"sizeof(short int));
-	printf("%d byte\n"sizeof(long int));
-	printf("%d byte\n"sizeof(float));
-	printf("%d byte\n"sizeof(double));
+	printf("%d byte\n",sizeof(char));
+	printf("%d byte\n",sizeof(int));
+	printf("%d byte\n",sizeof(short int));
+	printf("%d byte\n",sizeof(long int));
+	printf("%d byte\n",sizeof(float));
+	printf("%d byte\n",sizeof(double));
 
 	
 	return 0;
