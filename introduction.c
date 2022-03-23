@@ -51,6 +51,16 @@ int main() {
 		-x ------> x sayısını - ile çarpar(x sayısı eksi ise artı yapar, x sayısı artı ise eksi yapar.)
 	*/
 	
+	// To apply the above arithmetic operations.
+	int x1=1;
+	int x2=-1;
+	
+	printf("%d\n",12+9);
+	printf("%d\n",12-9);
+	printf("%d\n",12*9);
+	printf("%d\n",12/9);
+	printf("%d\n",12%9);
+
 	
 	
 	return 0;
