@@ -38,10 +38,10 @@ int main() {
 		-x ------> Multiplies x by - (if x is negative, it makes a plus; if x is plus, it makes a minus)
 	*/
 	
-	// Aritmetik iþlemler(TR)
+	// Aritmetik islemler(TR)
 	/*
 		x + y -----> x ile y'yi toplar.
-		x - y ------> x'den y'yi cýkarir.
+		x - y ------> x'den y'yi cikarir.
 		x * y ------> x ile y'yi carpar.
 		x / y ------> x ile y'yi boler.
 		
