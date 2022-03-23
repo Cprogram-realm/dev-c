@@ -48,7 +48,7 @@ int main() {
 		x % y -----> x'in y ile bolumunden kalaný verir.
 		
 		+x ------> x sayisini arti ile carpar(sonuc degismez)
-		-x ------> x sayisini - ile carpar(x sayýsý eksi ise arti yapar, x sayýsý arti ise eksi yapar.)
+		-x ------> x sayisini - ile carpar(x sayisi eksi ise arti yapar, x sayýsý arti ise eksi yapar.)
 	*/
 	
 	// To apply the above arithmetic operations.
