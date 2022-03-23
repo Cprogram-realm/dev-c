@@ -4,7 +4,7 @@
 
 int main() {
 	
-	// basic
+	// basic suppression
 	printf("Hello, world!\n");
 	
 	// Let's define our variables
