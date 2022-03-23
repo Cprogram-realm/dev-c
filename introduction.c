@@ -41,14 +41,14 @@ int main() {
 	// Aritmetik iþlemler(TR)
 	/*
 		x + y -----> x ile y'yi toplar.
-		x - y ------> x'den y'yi çýkarýr.
-		x * y ------> x ile y'yi çarpar.
-		x / y ------> x ile y'yi böler.
+		x - y ------> x'den y'yi cýkarir.
+		x * y ------> x ile y'yi carpar.
+		x / y ------> x ile y'yi boler.
 		
-		x % y -----> x'in y ile bölümünden kalaný verir.
+		x % y -----> x'in y ile bolumunden kalaný verir.
 		
-		+x ------> x sayýsýný arti ile çarpar(sonuç deðiþmez)
-		-x ------> x sayýsýný - ile çarpar(x sayýsý eksi ise artý yapar, x sayýsý artý ise eksi yapar.)
+		+x ------> x sayisini arti ile carpar(sonuc degismez)
+		-x ------> x sayisini - ile carpar(x sayýsý eksi ise arti yapar, x sayýsý arti ise eksi yapar.)
 	*/
 	
 	// To apply the above arithmetic operations.
@@ -60,6 +60,9 @@ int main() {
 	printf("%d\n",12*9);
 	printf("%d\n",12/9);
 	printf("%d\n",12%9);
+	
+	printf("%d\n",-x1);
+	printf("%d\n",-x2);
 
 	
 	
